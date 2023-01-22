@@ -1,0 +1,14 @@
+Viewing Schematics
+-> In order to see the schematics of uploaded designs, you need to install proteus design suite 8.0 on your laptop or PC.
+-> However, if you have any other hardware design software that supports pdsprj file ,then you can open this on that.
+
+Components
+-> Resistors
+-> Capacitors(polaroid,cemaric,etc.)
+-> IRFZ4NN 
+-> LM386
+-> 12V DC Power Supply
+-> 10k Potentiometer
+-> 8W Speaker
+
+
